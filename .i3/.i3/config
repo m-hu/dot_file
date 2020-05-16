@@ -93,6 +93,7 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # Name the workspaces
+# 'av' means audio and video
 set $tag1 "1: www"
 set $tag2 "2: code"
 set $tag3 "3: term"
